@@ -6,11 +6,12 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=600&lines=LLM+Training+%26+Optimization+Expert;RAG+Systems+Architect;Agentic+AI+Developer;A2A+Protocol+Specialist" alt="Typing SVG" />
 
-<br/>
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/upendra-singh-bhadauria)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/upendra062)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-00D9FF?style=for-the-badge&logo=googlechrome&logoColor=white)](https://your-portfolio-url.com)
+
+![Profile Views](https://komarev.com/ghpvc/?username=upendra062&color=00D9FF&style=flat-square&label=Profile+Views)
 
 </div>
 
@@ -18,40 +19,26 @@
 
 ## 🧠 About Me
 
-```python
-class UpendraSinghBhadauria:
-    def __init__(self):
-        self.role = "Senior AI/ML Engineer"
-        self.previous_role = "Data Scientist"
-        self.specializations = [
-            "LLM Training & Fine-tuning",
-            "RAG Systems Architecture", 
-            "Agentic AI Development",
-            "A2A Protocol Implementation"
-        ]
-        self.passion = "Building intelligent systems that transform industries"
-    
-    def get_daily_routine(self):
-        return ["Train LLMs ☕", "Optimize RAG 🔧", "Build Agents 🤖", "Ship to Prod 🚀"]
-```
+> **Senior AI/ML Engineer** passionate about building intelligent systems that transform industries.
 
-<br/>
+- 🔭 Previously worked as a **Data Scientist**
+- 🎯 Specializing in **LLM Training**, **RAG Systems**, **Agentic AI**, and **A2A Protocols**
+- 💡 Turning complex AI concepts into real-world solutions
+- ☕ I turn coffee into AI models
+
+---
 
 ## ⚡ Core Expertise
 
-<div align="center">
-
 | 🎯 Domain | 🛠️ Technologies |
-|:---:|:---|
+|:---|:---|
 | **LLM Training** | Fine-tuning, RLHF, LoRA, QLoRA, PEFT |
 | **RAG Systems** | Vector DBs, Embeddings, Chunking Strategies |
 | **Agentic AI** | Multi-Agent Systems, Tool Use, Planning |
 | **A2A Protocol** | Agent Communication, Orchestration |
 | **MLOps** | Model Serving, Monitoring, CI/CD |
 
-</div>
-
-<br/>
+---
 
 ## 🔥 Tech Stack
 
@@ -81,7 +68,7 @@ class UpendraSinghBhadauria:
 
 </div>
 
-<br/>
+---
 
 ## 📊 GitHub Stats
 
@@ -90,15 +77,11 @@ class UpendraSinghBhadauria:
 <img src="https://github-readme-stats.vercel.app/api?username=upendra062&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF" alt="GitHub Stats" height="170"/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=upendra062&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF" alt="GitHub Streak" height="170"/>
 
-</div>
-
-<div align="center">
-  
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=upendra062&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF" alt="Top Languages" height="170"/>
 
 </div>
 
-<br/>
+---
 
 ## 🏆 GitHub Trophies
 
@@ -108,41 +91,28 @@ class UpendraSinghBhadauria:
 
 </div>
 
-<br/>
+---
 
 ## 📈 Contribution Graph
 
-<div align="center">
-
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=upendra062&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF)
 
-</div>
-
-<br/>
+---
 
 ## 🎯 Current Focus
 
 ```
-🔭 Working on: Production-grade LLM systems & Agentic AI frameworks
-🌱 Learning: Advanced A2A protocols & Multi-agent orchestration  
-👯 Open to: Collaborate on cutting-edge AI projects
-💬 Ask me about: LLMs, RAG, Agents, MLOps
-⚡ Fun fact: I turn coffee into AI models ☕ → 🤖
+🔭 Working on    → Production-grade LLM systems & Agentic AI frameworks
+🌱 Learning      → Advanced A2A protocols & Multi-agent orchestration  
+👯 Open to       → Collaborate on cutting-edge AI projects
+💬 Ask me about  → LLMs, RAG, Agents, MLOps
 ```
-
-<br/>
 
 ---
 
 <div align="center">
 
-### 💡 "Building AI that doesn't just work, but thinks"
-
-<br/>
-
-![Profile Views](https://komarev.com/ghpvc/?username=upendra062&color=00D9FF&style=for-the-badge&label=PROFILE+VIEWS)
-
-<br/>
+### 💡 *"Building AI that doesn't just work, but thinks"*
 
 **🤝 Let's connect and build something amazing together!**
 
